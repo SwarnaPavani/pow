@@ -1,3 +1,3 @@
-num=input()
-num1=input()
+num=int(input())
+num1=int(input())
 print(num**num1)
